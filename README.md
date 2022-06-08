@@ -17,8 +17,13 @@ To check if SQLite3 is installed, run sqlite --version.
 ```
 composer install
 ```
-3. Run `php artisan serve` to start the server listening
-4. Open at http://127.0.0.1:8000/
+
+3. copy .env.example to .env running on terminal (Linux or Mac)
+```
+cp .env.example .env
+```
+4. Run `php artisan serve` to start the server listening
+5. Open at http://127.0.0.1:8000/
 
 
 # Technologies
