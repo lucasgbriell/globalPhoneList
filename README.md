@@ -9,7 +9,7 @@ Country code and phone number status (Valid or invalid)
 ## How to run?
 1. Install SQLite3
 ```
-Download on https://www.sqlite.org/index.html.
+Download at https://www.sqlite.org/index.html.
 (If you use Linux or Mac OS X, probably, it is already installed)
 To check if SQLite3 is installed, run sqlite --version.
 ```
@@ -30,7 +30,6 @@ Framework/Main Components: Laravel (Latest)
 # Testing
 -----
 Run `php artisan test` to test application
-> Important note; Before running tests, you will need to run the seeder.
 
 # Screenshots
 
