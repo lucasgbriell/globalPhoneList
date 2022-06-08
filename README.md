@@ -30,7 +30,6 @@ Framework/Main Components: Laravel (Latest)
 # Testing
 -----
 Run `php artisan test` to test application
-> Important note; Before running tests, you will need to run the seeder.
 
 # Screenshots
 
